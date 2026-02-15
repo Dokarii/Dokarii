@@ -1,7 +1,7 @@
 # I am Richard
 
 # 💫 About Me:
-🔭 Software development student<br>🌱 I’m currently learning a lot of things<br>💻 Love Java, Python & TypeScript
+🔭 Software development<br>🌱 I’m currently learning a lot of things<br>💻 Love Java, Python & TypeScript
 
 
 ## 🌐 Socials:
