@@ -4,7 +4,7 @@
 🔭 Software development<br>
 🌱 I’m currently learning a lot of things<br>
 💻 Love Java, Python & TypeScript<br>
-🔍 [![Take a look at my portfolio](https://ricardosportafolio.vercel.app/)
+🔍 [Take a look at my portfolio](https://ricardosportafolio.vercel.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ta.riccardo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ricardo-tejedor-3812053b4/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dokari_kun) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://quora.com/profile/Dokari) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Valuable-Connection3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DokariLive) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@BlueMondayx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejedoranayaricardo@gmail.com) 
